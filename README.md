@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LeVanHieu0509
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Le Van Hieu
+- 👀 I’m interested in explore fullstack
+- 🌱 I’m currently learning HUFLIT 
+- 💞️ I’m looking to collaborate on fullstack JS
+- 📫 How to reach me
 
 <!---
 LeVanHieu0509/LeVanHieu0509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
