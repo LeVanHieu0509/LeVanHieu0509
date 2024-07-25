@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Le Van Hieu
 - 👀 I’m interested in explore fullstack
-- 🌱 I’m currently learning HUFLIT 
+- 🌱 I have Bachelor's degree in HUFLIT University
 - 💞️ I’m looking to collaborate on fullstack JS
 - 📫 How to reach me
 
